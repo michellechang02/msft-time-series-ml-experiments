@@ -128,6 +128,14 @@ The notebook demonstrates that:
 4. **Feature engineering** plays a crucial role in model quality
 5. **Out-of-sample testing** reveals true generalization capability
 
+### Performance Visualization
+
+The following chart shows the out-of-sample performance comparison between the ensemble model strategy and a simple buy-and-hold baseline:
+
+![Out-of-Sample Model Signal vs Baseline](https://github.com/user-attachments/assets/929ca546-7be9-4aeb-ab2a-9606fe132e7c)
+
+This visualization demonstrates the model's ability to generate signals that outperform the baseline strategy over the test period, while accounting for transaction costs and maintaining rigorous evaluation standards.
+
 ## FHL Theme: Changing How We Work in the Era of AI
 
 This project reflects the changing landscape of work in the AI era in several ways:
