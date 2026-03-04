@@ -213,7 +213,7 @@ This project is provided as-is for educational purposes.
 
 ---
 
-**Project Type**: FHL (Future of Human Learning) Research Project  
+**Project Type**: Fix Hack Learn Hackathon 
 **Focus Area**: Time-Series ML, Ensemble Learning, Responsible AI  
 **Theme**: Changing how we work in the era of AI  
 **Status**: Educational Exercise - Not for Production Use
